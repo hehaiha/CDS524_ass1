@@ -20,7 +20,7 @@ This project implements a farm resource management game using the Q-learning alg
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/farm-resource-management-game.git
+   git clone git clone https://github.com/hehaiha/CDS524_ass1.git
    ```
 2. Navigate to the project directory:
    ```bash
